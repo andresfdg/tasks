@@ -1,19 +1,3 @@
-# app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+tasks is a full stack app using firebase like database
+you can create your tasks and open on every device 
+this app is mobile first
